@@ -1,0 +1,37 @@
+.skills-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    padding: 1.25rem 0px;
+    background-color: #FBFBFB;
+    flex-direction: row;
+    flex-wrap: wrap;
+    box-shadow: 0 0.625rem 0.625rem rgba(0, 0, 0, 0.1);
+    gap: 1.25rem;
+}
+.scontainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#FBFBFB;
+    margin-top: 5rem 0rem;
+}
+.scontainer >h1{
+    margin-right: auto;
+    margin-left: 3.125rem;
+}
+@media(max-width:768px) {
+    .scontainer{
+        justify-content: center;
+    }
+    .scontainer >h1{
+        margin-right: 0rem;
+        margin-left: 0rem;
+    }
+    
+}

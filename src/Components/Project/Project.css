@@ -1,0 +1,27 @@
+.project-section{
+    display: flex;
+    width:100%;
+    height:auto ;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 50px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1); /* Bottom shadow */
+
+}
+.project-display >h1{
+    font-size: 3rem;
+    text-align: left;
+
+}
+.project-display{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    max-width: 1000px;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
