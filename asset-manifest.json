@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/your-repository-name/static/css/main.77b62f79.css",
-    "main.js": "/your-repository-name/static/js/main.f614248a.js",
-    "static/js/488.9c92ff38.chunk.js": "/your-repository-name/static/js/488.9c92ff38.chunk.js",
-    "static/media/Resume_V3 - Copy.pdf": "/your-repository-name/static/media/Resume_V3 - Copy.96b9f8f2af106b457a75.pdf",
-    "static/media/pfp.jpg": "/your-repository-name/static/media/pfp.634fcd5a947be8c5df7e.jpg",
-    "static/media/placeholder.svg": "/your-repository-name/static/media/placeholder.7cd9d1d4938f7c0882673fccacb27964.svg",
-    "index.html": "/your-repository-name/index.html",
-    "main.77b62f79.css.map": "/your-repository-name/static/css/main.77b62f79.css.map",
-    "main.f614248a.js.map": "/your-repository-name/static/js/main.f614248a.js.map",
-    "488.9c92ff38.chunk.js.map": "/your-repository-name/static/js/488.9c92ff38.chunk.js.map"
+    "main.css": "/Sthor21/Portfolio.git/static/css/main.7804ca64.css",
+    "main.js": "/Sthor21/Portfolio.git/static/js/main.5893a585.js",
+    "static/js/488.9c92ff38.chunk.js": "/Sthor21/Portfolio.git/static/js/488.9c92ff38.chunk.js",
+    "static/media/Resume_V3 - Copy.pdf": "/Sthor21/Portfolio.git/static/media/Resume_V3 - Copy.96b9f8f2af106b457a75.pdf",
+    "static/media/pfp.jpg": "/Sthor21/Portfolio.git/static/media/pfp.634fcd5a947be8c5df7e.jpg",
+    "static/media/placeholder.svg": "/Sthor21/Portfolio.git/static/media/placeholder.7cd9d1d4938f7c0882673fccacb27964.svg",
+    "index.html": "/Sthor21/Portfolio.git/index.html",
+    "main.7804ca64.css.map": "/Sthor21/Portfolio.git/static/css/main.7804ca64.css.map",
+    "main.5893a585.js.map": "/Sthor21/Portfolio.git/static/js/main.5893a585.js.map",
+    "488.9c92ff38.chunk.js.map": "/Sthor21/Portfolio.git/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77b62f79.css",
-    "static/js/main.f614248a.js"
+    "static/css/main.7804ca64.css",
+    "static/js/main.5893a585.js"
   ]
 }
