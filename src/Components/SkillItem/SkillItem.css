@@ -50,4 +50,16 @@ button {
         max-width: 11rem;
     }
 }
-
+@media(max-width:480px) {
+    .category-container{
+        max-width: 8rem;
+        height: 9rem;
+    }
+    button{
+        font-size: 0.5rem;
+    }
+    .title-card > h1{
+        font-size: 1.2rem;
+    }
+    
+}

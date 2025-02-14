@@ -66,8 +66,12 @@
 }
 .option-elements
 {
-    width: 9.375rem;
-    height: 9.375rem;
+    width: 20vw;  /* 20% of viewport width */
+    height: 20vw; /* Keep aspect ratio for perfect circle */
+    max-width: 150px; /* Prevents it from becoming too big */
+    max-height: 150px;
+    min-width: 60px;  /* Prevents it from becoming too small */
+    min-height: 60px;
     background-color: black;
     border-radius: 50%;
     display: flex;
@@ -78,6 +82,7 @@
     color: white;
     transition: box-shadow 0.3s ease-in-out;
     box-sizing: border-box;
+    cursor: pointer;
 
 }
 .option-elements:hover{
@@ -118,8 +123,9 @@
         gap: 0.5rem;
     }
     .option-elements{
-        width: 9rem;
-        height: 9rem;
+        width: 7rem;
+        height: 7rem;
+        font-size: 1rem;
     }
     .img-section{
         flex: initial;

@@ -25,3 +25,9 @@
     justify-content: center;
     align-items: center;
 }
+@media(max-width:456px) {
+    .project-display h1{
+        font-size: 2rem;
+    }
+    
+}
